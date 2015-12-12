@@ -1,0 +1,23 @@
+{
+  "name": "infra",
+  "version": "1.0.0",
+  "description": "A fast shortcut search engine.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://comp500@github.com/comp500/infra.git"
+  },
+  "author": "comp500",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comp500/infra/issues"
+  },
+  "homepage": "https://github.com/comp500/infra#readme"
+}
