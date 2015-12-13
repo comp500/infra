@@ -2,15 +2,8 @@
   "name": "infra",
   "version": "1.0.0",
   "description": "A fast shortcut search engine.",
-  "main": "index.js",
-  "dependencies": {
-    "express": "^4.13.3"
-  },
   "devDependencies": {
     "gulp": "^3.9.0"
-  },
-  "scripts": {
-    "test": "test.js"
   },
   "repository": {
     "type": "git",
